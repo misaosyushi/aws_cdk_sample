@@ -27,6 +27,6 @@
     "@aws-cdk/aws-sns-subscriptions": "^1.13.1",
     "@aws-cdk/aws-sqs": "^1.13.1",
     "@aws-cdk/core": "^1.13.1",
-    "aws-sdk": "^2.553.0"
+    "aws-sdk": "^2.814.0"
   }
 }
